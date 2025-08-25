@@ -1,4 +1,4 @@
-package com.example.idle_parilla_pepito_poliquit.views
+package com.example.idle_parilla_pepito_poliquit.activities
 
 import android.content.Intent
 import android.os.Bundle
@@ -17,8 +17,8 @@ import com.example.idle_parilla_pepito_poliquit.contracts.HomeContract
 import com.example.idle_parilla_pepito_poliquit.models.DeskInfo
 import com.example.idle_parilla_pepito_poliquit.models.DeskOccupancy
 import com.example.idle_parilla_pepito_poliquit.models.User
+import  com.example.idle_parilla_pepito_poliquit.activities.LoginActivity
 import com.example.idle_parilla_pepito_poliquit.presenters.HomePresenter
-import  com.example.idle_parilla_pepito_poliquit.LoginActivity
 
 class HomeActivity : AppCompatActivity(), HomeContract.View {
 
