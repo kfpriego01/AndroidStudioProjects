@@ -5,7 +5,8 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import com.example.idle_parilla_pepito_poliquit.R
-import com.example.idle_parilla_pepito_poliquit.RegisterActivity
+import com.example.idle_parilla_pepito_poliquit.activities.RegisterActivity
+import com.example.idle_parilla_pepito_poliquit.activities.LoginActivity
 import com.example.idle_parilla_pepito_poliquit.contracts.MainContract
 import com.example.idle_parilla_pepito_poliquit.presenters.MainPresenter
 
